@@ -1,8 +1,8 @@
 # MoneyMap
 
-MoneyMap is a modern personal finance dashboard built with Python and Streamlit. It helps users understand their cash flow, track expenses, manage budgets, monitor savings goals, and review investment performance from one clean local application.
+MoneyMap is a Streamlit-based personal finance dashboard that turns everyday financial activity into clear, actionable views. It combines budgeting, transaction tracking, savings goals, investment monitoring, and rule-based insights in a polished local-first application.
 
-The project is designed to be portfolio-ready, beginner-friendly, and easy to run without external services or account connections.
+The project is designed as a portfolio-ready example of practical data application development: structured state management, local persistence, interactive charts, and a clean dashboard experience without external services or account connections.
 
 ## Project Overview
 
@@ -29,6 +29,16 @@ Personal finance data is often scattered across bank apps, spreadsheets, budgeti
 - How is my cash flow changing over time?
 
 MoneyMap solves this by bringing everyday personal finance tracking into one lightweight dashboard that runs locally and keeps the code approachable for learners.
+
+## Key Capabilities
+
+- Track income and expenses with categorized transaction history
+- Monitor monthly budget usage and identify overspending quickly
+- Measure savings progress against specific goals and target dates
+- Review investment performance using manually entered positions
+- Generate rule-based financial insights without AI or external APIs
+- Explore financial trends with interactive Plotly visualizations
+- Store data locally in a simple JSON file for easy setup and portability
 
 ## Features
 
@@ -123,4 +133,4 @@ MoneyMap solves this by bringing everyday personal finance tracking into one lig
 
 ## License
 
-This project is available under the MIT License. You are free to use, modify, and share it for personal, educational, or portfolio purposes.
+This project is licensed under the MIT License. See the LICENSE file for more information.
