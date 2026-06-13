@@ -2,7 +2,7 @@
 
 MoneyMap is a modern personal finance dashboard built with Python and Streamlit. It helps users understand their cash flow, track expenses, manage budgets, monitor savings goals, and review investment performance from one clean local application.
 
-The project is designed to be portfolio-ready, beginner-friendly, and easy to run without external services or account connections.
+The project is designed to be beginner-friendly, and easy to run without external services or account connections.
 
 ## Project Overview
 
