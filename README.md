@@ -2,7 +2,7 @@
 
 MoneyMap is a Streamlit-based personal finance dashboard that turns everyday financial activity into clear, actionable views. It combines budgeting, transaction tracking, savings goals, investment monitoring, and rule-based insights in a polished local-first application.
 
-The project is designed as a portfolio-ready example of practical data application development: structured state management, local persistence, interactive charts, and a clean dashboard experience without external services or account connections.
+The project is designed to be portfolio-ready, beginner-friendly, and easy to run without external services or account connections.
 
 ## Project Overview
 
